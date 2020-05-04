@@ -1,1 +1,0 @@
-Hello , I am giving my commands from CLI local.
