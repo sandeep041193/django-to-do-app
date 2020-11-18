@@ -5,4 +5,4 @@ class TasksConfig(AppConfig):
     name = 'tasks'
 
 
-//added comments
+//added comments nov 18, 2020
